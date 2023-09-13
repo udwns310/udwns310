@@ -36,8 +36,7 @@
 
 <br>
 
-![](https://github.com/udwms310/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/udwns310/github-stats-transparent/blob/output/generated/languages.svg)
+[![udwns310's GitHub stats](https://github-readme-stats.vercel.app/api?username=udwns310&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
