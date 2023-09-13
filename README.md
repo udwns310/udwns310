@@ -1,5 +1,5 @@
   <div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Welcom&fontSize=100&desc=udwns310's%20GitHub%20Profile&descAlign=58)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Welcom&fontSize=100&desc=udwns310's%20GitHub%20Profile&descAlign=58)]
 
 ![KimHS17's GitHub stats](https://github-readme-stats.vercel.app/api?username=udwns310&show_icons=true)]
 	
