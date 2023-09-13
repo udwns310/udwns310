@@ -3,8 +3,8 @@
 	  
 ![udwns310's GitHub stats](https://github-readme-stats.vercel.app/api?username=udwns310&show_icons=true)]
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fudwns310&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
-	 🛠 Tech Stack 🛠
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fudwns310&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp
+	 🛠 Tech Stack 🛠&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 
   </div>
