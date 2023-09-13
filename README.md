@@ -7,7 +7,8 @@
 	
   </div>
   
-  ### Hi there 👋
+🛠 Tech Stack 🛠
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
 
 <!--
 **udwns310/udwns310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
