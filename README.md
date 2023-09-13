@@ -1,5 +1,5 @@
   <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=auto&text=Welcom&fontSize=100&desc=udwns310's%20GitHub%20Profile&descAlign=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=auto&text=Welcom&fontSize=100&desc=udwns310's%20GitHub%20Profile&descAlign=58" />
 	  
 ![udwns310's GitHub stats](https://github-readme-stats.vercel.app/api?username=udwns310&show_icons=true)]
 	
