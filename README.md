@@ -29,16 +29,11 @@
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-  <a href="https://velog.io/@youngjuni21"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@youngjuni21"/></a>&nbsp
+  <a href="https://velog.io/@udwns310"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@youngjuni21"/></a>&nbsp
   <a href="https://www.instagram.com/udwns_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/udwns_o/"/></a>&nbsp
   <a href="https://www.discord.com/users/305336416311705601"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/users/305336416311705601"/></a>&nbsp
 </p>
 
 <br>
-
-[![udwns310's GitHub stats](https://github-readme-stats.vercel.app/api?username=udwns310&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-[![udwns310's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udwns310&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 </div>
