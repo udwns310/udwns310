@@ -1,7 +1,14 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungJun%20Choi&fontSize=90&fontAlign=62&fontAlignY=32&desc=udwns310's%20Github&descSize=25&descAlign=85&descAlignY=55)
+<h3 align="center">🚀 Live Service 🚀</h3> 
 
+<div align="center">
+  <h3>🗺️ <a href="https://itplace.click" target="_blank">IT:PLACE</a> <strong>위치 기반 멤버십 혜택 추천 서비스</strong></h3>
+</div>
+
+<div align="left">
+  
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
