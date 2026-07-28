@@ -1,6 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungJun%20Choi&fontSize=90&fontAlign=62&fontAlignY=32&desc=udwns310's%20Github&descSize=25&descAlign=85&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=C9E9D2&text=YoungJun%20Choi&textBg=false&fontColor=789DBC&fontSize=40&fontAlignY=45&animation=fadeIn&desc=udwns310's%20Github&descAlignY=63&descSize=30&fontAlign=47&descAlign=56)
+
 <h3 align="center">🚀 Live Service 🚀</h3> 
 
 <div align="center">
